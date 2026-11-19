@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bluebird_trono_sombras
+  m_Controller: {fileID: 9100000, guid: befb6d70815e6914ebd1a728880c0c7a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a16ce00bbeb1e0e40b7411ea7b779844, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 827f21bf2fc05eeaa8c27d67ee93a73e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 03480aea5ae7d564a94a92e60f32b4c8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c50cdb2f729896b37d1d7787b60288e6, type: 2}

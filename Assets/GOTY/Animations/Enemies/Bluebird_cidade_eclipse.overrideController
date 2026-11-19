@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bluebird_cidade_eclipse
+  m_Controller: {fileID: 9100000, guid: befb6d70815e6914ebd1a728880c0c7a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a16ce00bbeb1e0e40b7411ea7b779844, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d0de3b982948b77ed2b12acbab7daf92, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 03480aea5ae7d564a94a92e60f32b4c8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 43140a411a899a8280177f58f6227e0f, type: 2}
